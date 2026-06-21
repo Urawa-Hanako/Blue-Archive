@@ -5,3 +5,6 @@ __pycache__/
 # uv
 uv.lock
 .venv/
+
+# database
+schaledb/
